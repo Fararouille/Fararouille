@@ -28,10 +28,4 @@ Passionné par l'informatique et les nouvelles technologies, j'aime concevoir de
 - **The Muisca (2025) :** Développement web et optimisation du référencement naturel (SEO).
 - **WMT (2024) :** Conception et développement de sites web pour des petites entreprises.
 
-### 📫 Me contacter
-
-- **Localisation :** France 🇫🇷
-- **LinkedIn :** [Ajouter mon profil LinkedIn]
-- **Portfolio :** [Ajouter mon portfolio]
-
 *🔎 Ouvert aux opportunités professionnelles dans le développement web, le développement logiciel et l'informatique.*
